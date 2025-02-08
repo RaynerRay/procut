@@ -8,22 +8,27 @@ const Faq = () => {
 
   const faqs = [
     {
-      question: "Why to choose us?",
-      answer: "We offer professional electrical services with years of experience, certified electricians, and competitive pricing. Our team is committed to providing high-quality work and excellent customer service."
+      question: "Why choose ProCut?",
+      answer: "ProCut offers precision metal fabrication with high-quality materials, expert craftsmanship, and reliable service. We specialize in custom metalwork, ensuring durability and excellence in every project."
     },
     {
-      question: "How quickly can you get help?",
-      answer: "We provide 24/7 emergency services and can typically respond within 1-2 hours for urgent cases. For non-emergency appointments, we can usually schedule within 24-48 hours."
+      question: "What services do you provide?",
+      answer: "We provide a wide range of metal fabrication services, including laser cutting, welding, sheet metal bending, custom steelwork, and structural fabrication for both industrial and residential projects."
     },
     {
-      question: "How to pay for services?",
-      answer: "We accept all major credit cards, cash, and digital payments including PayPal and online bank transfers. We provide detailed invoices and can arrange payment plans for larger projects."
+      question: "How long does a project take?",
+      answer: "Project timelines vary depending on complexity and size. Small custom orders can take a few days, while larger industrial projects may take a few weeks. We always strive to meet deadlines without compromising quality."
     },
     {
-      question: "What to call an electrician?",
-      answer: "Call an electrician for any electrical issues including power outages, flickering lights, circuit breaker problems, electrical upgrades, or installation of new fixtures and outlets."
+      question: "Do you offer custom metal fabrication?",
+      answer: "Yes! We specialize in custom metal fabrication tailored to your specifications. Whether it's industrial equipment, decorative metalwork, or structural components, we bring your vision to life with precision."
+    },
+    {
+      question: "How can I get a quote?",
+      answer: "You can request a free quote by contacting us via phone, email, or visiting our workshop. Provide details about your project, including dimensions, materials, and design specifications for an accurate estimate."
     }
   ];
+  
 
   return (
     <div className="bg-gray-50 py-8">
