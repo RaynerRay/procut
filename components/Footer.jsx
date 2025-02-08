@@ -86,7 +86,7 @@ const Footer = () => {
                 <MapPin className="w-5 h-5 text-orange-400 mt-1" />
                 <div>
                   <div className="font-medium text-white">Address</div>
-                  <div>59 Kelvin Road South, Graniteside, Harare, Zimbabwe</div>
+                  <div>55 Kelvin Road South, Graniteside, Harare, Zimbabwe</div>
                 </div>
               </li>
               <li className="flex items-start gap-3">

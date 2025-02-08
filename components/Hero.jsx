@@ -16,7 +16,7 @@ const Hero = () => {
   const features = [
     {
       icon: <MapPin className="w-8 h-8 sm:w-10 sm:h-10 text-orange-500 flex-shrink-0" />,
-      text: "59 Kelvin Road South, Graniteside, Harare, Zimbabwe"
+      text: "55 Kelvin Road South, Graniteside, Harare, Zimbabwe"
     },
     {
       icon: <Phone className="w-8 h-8 sm:w-10 sm:h-10 text-orange-500 flex-shrink-0" />,
