@@ -12,7 +12,7 @@ const page = () => {
     {
       icon: <Phone className="w-8 h-8" />,
       title: "Phones",
-      details: ["+263 78 519 4445", "+263 772 340 505"]
+      details: ["+263 78 519 4445", "+263 772 340 505","+263 773 979 078"]
     },
     {
       icon: <Mail className="w-8 h-8" />,
