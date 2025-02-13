@@ -14,13 +14,13 @@ const Services = () => {
         },
         {
           number: '03',
-          title: 'Equipment Installation',
-          description: 'Professional supply and installation of electrical equipment, ensuring proper setup and integration with your existing systems for optimal performance.'
+          title: 'Catering equipment',
+          description: 'Catering equipment is also part of our services, including boiling pots, chip fryers, and more.'
         },
         {
           number: '04',
-          title: 'Custom Fabrication',
-          description: 'Specialized custom metal fabrication services tailored to your specifications. From simple components to complex structures, we bring your designs to life.'
+          title: 'Electrical Switchgear and Components',
+          description: 'We will also be suppliers of all electrical switchgear and components, including ABB, Schneider, Hager, Chint, and Tosun.'
         },
         {
           number: '05',

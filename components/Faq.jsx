@@ -9,15 +9,15 @@ const Faq = () => {
   const faqs = [
     {
       question: "Why choose ProCut?",
-      answer: "ProCut offers precision metal fabrication with high-quality materials, expert craftsmanship, and reliable service. We specialize in custom metalwork, ensuring durability and excellence in every project."
+      answer: "ProCut offers precision metal fabrication with high-quality materials, expert craftsmanship, and reliable service. We specialize in custom metalwork, ensuring durability and excellence in every project. Our services that are standard governed"
     },
     {
       question: "What services do you provide?",
-      answer: "We provide a wide range of metal fabrication services, including laser cutting, welding, sheet metal bending, custom steelwork, and structural fabrication for both industrial and residential projects."
+      answer: "We provide a wide range of metal fabrication services, including manufacturing of all switchboads panels, welding, sheet metal bending, custom steelwork, and structural fabrication for both industrial and residential projects. We also offer uninterrupted power supply solutions"
     },
     {
       question: "How long does a project take?",
-      answer: "Project timelines vary depending on complexity and size. Small custom orders can take a few days, while larger industrial projects may take a few weeks. We always strive to meet deadlines without compromising quality."
+      answer: "Project timelines vary depending on complexity and size. Small custom orders can take a few hours, while larger industrial projects may take a few weeks. We always strive to meet deadlines without compromising quality."
     },
     {
       question: "Do you offer custom metal fabrication?",

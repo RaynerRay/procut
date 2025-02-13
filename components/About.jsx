@@ -40,10 +40,7 @@ const About = () => {
           </h2>
 
           <p className="text-gray-600">
-             Procut Metal Fabricators, is a
-            Zimbabwean-registered company specializing in the design,
-            fabrication, and supply of electrical distribution boards, panels,
-            and metal sheet works.
+          ProCut Metal Fabricators is a Zimbabwean-registered company specializing in the manufacturing and distribution of electrical switchboards and panels. We are suppliers of electrical switchgear and components, as well as experts in metal sheet fabrication and design, mechanical engineering, and catering equipment.
           </p>
           <p className="text-gray-600">
             With a team of seasoned professionals boasting extensive industry
