@@ -20,7 +20,7 @@ const Hero = () => {
     },
     {
       icon: <Phone className="w-8 h-8 sm:w-10 sm:h-10 text-orange-500 flex-shrink-0" />,
-      text: "+263 78 519 4445"
+      text: "+263 773 979 078"
     },
     {
       icon: <Phone className="w-8 h-8 sm:w-10 sm:h-10 text-orange-500 flex-shrink-0" />,
